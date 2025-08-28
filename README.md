@@ -101,8 +101,7 @@ kaggle-titanic-predictions/
 
 3. **Install required packages**
    ```bash
-   pip install pandas numpy scikit-learn xgboost matplotlib seaborn
-   pip install tensorflow_decision_forests
+   pip install -r requirements.txt
    ```
 
 4. **Run the notebook**
